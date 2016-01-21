@@ -1,0 +1,7 @@
+#Phpcsmd options
+#Fri Jan 08 11:43:29 CET 2016
+phpcsmd.phpcs.script=/home/ivark/.composer/vendor/squizlabs/php_codesniffer/scripts/phpcs
+phpcsmd.phpcs.standard=PSR2
+phpcsmd.phpmd.static=
+phpcsmd.phpcs.static=
+phpcsmd.phpcpd.static=
